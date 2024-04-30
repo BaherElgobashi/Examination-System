@@ -1,0 +1,42 @@
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\bin\Debug\net6.0\Exam.exe
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\bin\Debug\net6.0\Exam.deps.json
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\bin\Debug\net6.0\Exam.dll
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\bin\Debug\net6.0\Exam.pdb
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.dll
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\refint\Exam.dll
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.pdb
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\ref\Exam.dll
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\bin\Debug\net6.0\Exam.exe
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\bin\Debug\net6.0\Exam.deps.json
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\bin\Debug\net6.0\Exam.dll
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\bin\Debug\net6.0\Exam.pdb
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\obj\Debug\net6.0\Exam.dll
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\obj\Debug\net6.0\refint\Exam.dll
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\obj\Debug\net6.0\Exam.pdb
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\D\RouteWork\Cycle 41\Workshops\05 C# Exam\Practice\Exam Solution\Exam\obj\Debug\net6.0\ref\Exam.dll
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\bin\Debug\net6.0\Exam.exe
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\bin\Debug\net6.0\Exam.deps.json
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\bin\Debug\net6.0\Exam.dll
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\bin\Debug\net6.0\Exam.pdb
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.dll
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\refint\Exam.dll
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.pdb
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+D:\technical playlists\eng aliaa tarek\Workshop\Eng Doaa Amin\05 C# Exam\Demo\Exam Solution\Exam\obj\Debug\net6.0\ref\Exam.dll

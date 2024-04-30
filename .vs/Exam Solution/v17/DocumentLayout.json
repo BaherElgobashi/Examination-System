@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|d:\\technical playlists\\eng aliaa tarek\\workshop\\eng doaa amin\\05 c# exam\\demo\\exam solution\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|d:\\technical playlists\\eng aliaa tarek\\workshop\\eng doaa amin\\05 c# exam\\demo\\exam solution\\exam\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|solutionrelative:exam\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|d:\\technical playlists\\eng aliaa tarek\\workshop\\eng doaa amin\\05 c# exam\\demo\\exam solution\\exam\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|solutionrelative:exam\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|d:\\technical playlists\\eng aliaa tarek\\workshop\\eng doaa amin\\05 c# exam\\demo\\exam solution\\exam\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|solutionrelative:exam\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|d:\\technical playlists\\eng aliaa tarek\\workshop\\eng doaa amin\\05 c# exam\\demo\\exam solution\\exam\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|solutionrelative:exam\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|d:\\technical playlists\\eng aliaa tarek\\workshop\\eng doaa amin\\05 c# exam\\demo\\exam solution\\exam\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|solutionrelative:exam\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|d:\\technical playlists\\eng aliaa tarek\\workshop\\eng doaa amin\\05 c# exam\\demo\\exam solution\\exam\\tfquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|solutionrelative:exam\\tfquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|d:\\technical playlists\\eng aliaa tarek\\workshop\\eng doaa amin\\05 c# exam\\demo\\exam solution\\exam\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|solutionrelative:exam\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|d:\\technical playlists\\eng aliaa tarek\\workshop\\eng doaa amin\\05 c# exam\\demo\\exam solution\\exam\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21034AC4-1C88-435B-A599-0062E5966478}|Exam\\Exam.csproj|solutionrelative:exam\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\Answer.cs",
+              "RelativeDocumentMoniker": "Exam\\Answer.cs",
+              "ToolTip": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\Answer.cs",
+              "RelativeToolTip": "Exam\\Answer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:18:55.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\Exam.cs",
+              "RelativeDocumentMoniker": "Exam\\Exam.cs",
+              "ToolTip": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\Exam.cs",
+              "RelativeToolTip": "Exam\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:18:55.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TFQuestion.cs",
+              "DocumentMoniker": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\TFQuestion.cs",
+              "RelativeDocumentMoniker": "Exam\\TFQuestion.cs",
+              "ToolTip": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\TFQuestion.cs",
+              "RelativeToolTip": "Exam\\TFQuestion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:18:55.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "McqQuestion.cs",
+              "DocumentMoniker": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\McqQuestion.cs",
+              "RelativeDocumentMoniker": "Exam\\McqQuestion.cs",
+              "ToolTip": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\McqQuestion.cs",
+              "RelativeToolTip": "Exam\\McqQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:18:55.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\Question.cs",
+              "RelativeDocumentMoniker": "Exam\\Question.cs",
+              "ToolTip": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\Question.cs",
+              "RelativeToolTip": "Exam\\Question.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:18:55.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Exam\\Program.cs",
+              "ToolTip": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\Program.cs",
+              "RelativeToolTip": "Exam\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:18:55.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\Subject.cs",
+              "RelativeDocumentMoniker": "Exam\\Subject.cs",
+              "ToolTip": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\Subject.cs",
+              "RelativeToolTip": "Exam\\Subject.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:18:55.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "Exam\\PracticalExam.cs",
+              "ToolTip": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\PracticalExam.cs",
+              "RelativeToolTip": "Exam\\PracticalExam.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:18:55.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\FinalExam.cs",
+              "RelativeDocumentMoniker": "Exam\\FinalExam.cs",
+              "ToolTip": "D:\\technical playlists\\eng aliaa tarek\\Workshop\\Eng Doaa Amin\\05 C# Exam\\Demo\\Exam Solution\\Exam\\FinalExam.cs",
+              "RelativeToolTip": "Exam\\FinalExam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:18:55.735Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
